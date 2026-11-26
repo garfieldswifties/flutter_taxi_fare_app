@@ -1,6 +1,6 @@
 # Taxi Fare Calculator
 
-Assignment 05 ฝึกสร้างแอป Flutter และ Dart สำหรับคำนวณค่าโดยสารแท็กซี่จากระยะทางและเวลารถติด โปรเจกต์ชื่อ `flutter_taxi_fare_app` รองรับโครงสร้าง Android, iOS และ Web
+แอปพลิเคชันคำนวณค่าโดยสารแท็กซี่จากระยะทางและเวลาที่รถติด พัฒนาด้วย Flutter และ Dart รองรับแพลตฟอร์ม Android, iOS และ Web
 
 ## ภาพหน้าจอ
 

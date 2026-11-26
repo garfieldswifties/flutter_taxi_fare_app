@@ -33,6 +33,23 @@ migrate_working_dir/
 /build/
 /coverage/
 
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
+credentials.json
+service-account.json
+secrets.json
+
+# Signing keys and private certificates
+key.properties
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.mobileprovision
+
 # Symbolication related
 app.*.symbols
 
